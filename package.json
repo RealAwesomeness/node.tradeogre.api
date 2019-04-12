@@ -1,0 +1,35 @@
+{
+  "name": "node-tradeogre-api",
+  "version": "0.1",
+  "description": "Node TradeOgre API - asynchronous node.js library for the TradeOgre API https://tradeogre.com/",
+  "keywords": [
+    "btc",
+    "xbt",
+    "bitcoin",
+    "altcoin",
+    "tradeogre"
+  ],
+  "author": "RealAwesomeness ( https://github.com/RealAwesomeness )",
+  "contributors": [],
+  "license": "MIT",
+  "dependencies": {
+    "jsonic": "^0.3.0",
+    "object-assign": "^4.1.1",
+    "request": "^2.87.0",
+    "signalr-client": "0.0.17"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RealAwesomeness/node.tradeogre.api.git"
+  },
+  "main": "node.tradeogre.api.js",
+  "engines": {
+    "node": ">=0.10"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
