@@ -3,7 +3,7 @@
  * https://github.com/RealAwesomeness/node.tradeogre.api
  *
  * ============================================================
- * Copyright 2019-, David Chen
+ * Copyright 2019-, RealAwesomeness
  * Released under the MIT License
  * ============================================================ */
 
